@@ -1,0 +1,1 @@
+java -jar .\autoInstall.jar E:\test test
